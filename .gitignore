@@ -1,0 +1,11 @@
+target/
+.vertx/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log*
+build/
+out/
+test.html
+dependency-reduced-pom.xml
