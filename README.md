@@ -26,3 +26,4 @@ mvn clean compile exec:java -Dexec.mainClass=org.jboss.weld.environment.se.Start
 _for debugging purpose run App main class right from IDE in debug mode_
 
 * [SmallRye Reactive Messaging: Interacting with Apache Kafka](https://smallrye.io/smallrye-reactive-messaging/#_interacting_with_apache_kafka)
+* [GitHub: useful kafka tests / configs](https://github.com/smallrye/smallrye-reactive-messaging/blob/master/smallrye-reactive-messaging-kafka/src/test/java/io/smallrye/reactive/messaging/kafka/KafkaTestBase.java)
